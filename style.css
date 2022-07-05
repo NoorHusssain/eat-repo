@@ -1,0 +1,77 @@
+body { margin: 0;
+
+}
+p{ color: grey;
+    
+    font-family: 'IBM Plex Sans', sans-serif;
+
+}
+
+.flexible-container{ display: flex; 
+margin-bottom: 15%;
+
+}
+.blue-color{ color: darkorange;
+font-size: 2.5rem;
+font-weight: 700;
+font-family:  'Paytone One', sans-seri;
+}
+#fake{ font-size: 2.1rem;
+    font-weight: 1000;
+    color: grey;
+    font-family: 'Paytone One', sans-seri;
+}
+.lastline{ color:#007FFF;}
+
+.order{ text-decoration: none;
+padding: 10px 20px;
+background-color: #ff4e00;
+background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
+border-radius: 7px;
+color: white;
+font-family: 'Paytone One', sans-seri ;
+}
+
+.burger{ padding-left: 10px;
+width: 50%;
+font-size: 15px;
+ 
+}
+
+.advice{ background-image: url(bg.png.jpg);  
+background-repeat: no-repeat;
+background-position: right;
+}
+
+.about{ color: gray;}
+
+
+.recipe{ text-align: center;}
+
+#food-one img{ width: 255; height: 200px;
+
+object-fit: cover; }
+
+
+
+.food{ box-shadow: 10px 11px 10px  gray;
+width: 50%;
+margin-right: 10%;
+margin-left: 10%;
+padding-left: 15px;
+padding-right: 20px;
+border-radius: 20px;
+margin-bottom: 5%;
+
+
+}
+ 
+
+ 
+#foodtwo img{ width: 246px; height: 200px; 
+}
+
+
+.burger img{ width: 85%;
+}
+
