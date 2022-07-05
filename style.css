@@ -48,7 +48,7 @@ background-position: right;
 
 .recipe{ text-align: center;}
 
-#food-one img{ width: 255; height: 200px;
+#food-one img{ width: 109%; height: 50%
 
 object-fit: cover; }
 
@@ -68,10 +68,16 @@ margin-bottom: 5%;
  
 
  
-#foodtwo img{ width: 246px; height: 200px; 
+#foodtwo img{ width: 108%; height: 100%; 
 }
 
 
 .burger img{ width: 85%;
 }
 
+.subs{ padding-right: 10px;
+ margin-right: 5%;
+
+}
+
+.yotube { text-overflow: clip;}
